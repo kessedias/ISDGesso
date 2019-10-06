@@ -1,0 +1,125 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f2f2f2;
+}
+
+
+/* TOPO SLOGAN, ORÇAMENTO */
+
+/* FINAL TOPO SLOGAN, ORÇAMENTO */
+
+#menu{
+    color: whitesmoke;
+    background-color: #042159 !important;
+    font-size: 20px;
+    
+}
+
+.margintop{
+    margin-top: 71px;
+}
+
+#rodape{
+    background-color: black;
+    color: whitesmoke;
+}
+
+#jumbo{
+    background-color: black !important;
+    color: whitesmoke;
+}
+
+#jumbo h1{
+    font-size: 80px; 
+    font-weight: bold;
+}
+
+#menuadm{
+    background-color: #042159 !important;
+}
+
+label{
+    font-weight: bold;
+}
+
+.navyblue{
+    background-color: #042159 !important;
+    color: whitesmoke;
+}
+
+.whitesmoke{
+    color: whitesmoke;
+}
+
+.lightgray{
+    background-color: #F2F2F2;
+    color: black;
+    font-weight: bold;
+}
+
+.navycolor{
+    color: #042159;
+}
+
+.navycolorbg{
+    background-color: #042159;
+}
+
+.dark{
+    background-color: black;
+    color: whitesmoke;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.logo{
+    max-width: 50px;
+    height: auto;
+}
+
+.nomelogo{
+    font-family: 'Wendy One', sans-serif;
+    font-size: 36px;
+}
+
+.nomelogo:hover{
+    color: whitesmoke;
+    font-weight: bold;
+}
+
+.text-italic{
+    font-style: italic;
+}
+
+.link{
+    color: whitesmoke;
+   
+}
+
+.link:hover{
+    color: #042159;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a.linktitulo:link, a.linktitulo:visited{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+a.linktitulo:hover, a.lintitulo:active{
+    color:  rgba(255,255,255,.75);
+}
+
+#servhover:hover{
+    background: black !important;
+    transition: background-color .15s ease-out,
+    background-size .15s ease-out;
+}
+

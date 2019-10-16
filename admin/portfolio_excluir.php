@@ -7,7 +7,7 @@ if (isset($_POST['op'])) {
     $id_port = $_POST['id_port'];
 
     $sql2 = "DELETE FROM portfolio_tb WHERE id_port=$id_port";
-
+    // código do kesse
     $resultado2 = mysqli_query($conexao, $sql2);
 
     //var_dump($resultado2);

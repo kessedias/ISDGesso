@@ -12,7 +12,7 @@ if(isset($_POST['op'])){
     $tipo     = $_POST['tipo'];
 
     $sql = "INSERT INTO usuarios_tb VALUES(0, '$nome', '$sobrenome', '$email', '$usuario', '$senha', now(), '$tipo')";
-
+    // código do kesse
     $resultado = mysqli_query($conexao, $sql);
 
     //var_dump($resultado);

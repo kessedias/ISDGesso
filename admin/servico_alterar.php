@@ -10,7 +10,7 @@
         //$img_intro_serv    = $_POST['img_intro_serv'];
         //$img_cont_serv     = $_POST['img_cont_serv'];
         $texto_cont_serv   = $_POST['texto_cont_serv'];
-
+        // código do kesse
          //IMAGEM Intro Serviços
         // Se estiver definido o campo imagem
     if(isset($_FILES['img_intro_serv']) && $_FILES['img_intro_serv']['error'] ==0) {

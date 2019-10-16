@@ -7,7 +7,7 @@
     $resultado = mysqli_query($conexao, $sql);
 
     if ($resultado) {
-
+        // código do kesse
         $tabela = mysqli_fetch_all($resultado, MYSQLI_ASSOC);
     } else {
         $tabela = [];

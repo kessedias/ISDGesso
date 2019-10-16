@@ -1,7 +1,7 @@
 <?php
 //Abre sessão com o navegador
 session_start();
-
+// código do kesse
 //Se já tem o id do usuario na sessao
 if (isset($_SESSION['id_usuario'])) {
     header('Location: index.php');

@@ -18,6 +18,7 @@
     if ($resultado2) {
       $banner = mysqli_fetch_assoc($resultado2);
     }
+    //código do kesse
 ?>
 <!DOCTYPE html>
 

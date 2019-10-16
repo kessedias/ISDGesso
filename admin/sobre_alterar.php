@@ -10,7 +10,7 @@
         $texto_ini_sob    = $_POST['texto_ini_sob'];
         $text_fim_sob    = $_POST['text_fim_sob'];
         //$img_sob          = $_POST['img_sob'];
-
+        // código do kesse
          // Se estiver definido o campo imagem
     if(isset($_FILES['img_sob']) && $_FILES['img_sob']['error'] ==0){
 

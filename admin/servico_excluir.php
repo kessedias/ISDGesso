@@ -9,7 +9,7 @@ if (isset($_POST['op'])) {
     $sql2 = "DELETE FROM servicos_tb WHERE id_serv=$id_serv";
 
     $resultado2 = mysqli_query($conexao, $sql2);
-
+    // código do kesse
     //var_dump($resultado2);
     if ($resultado2) {
         header('Location: index.php');

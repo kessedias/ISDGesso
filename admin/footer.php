@@ -1,4 +1,5 @@
 <?php
+// código do kesse
     require_once '../conecta/conexao.php';
     require_once 'autentica.php';
 

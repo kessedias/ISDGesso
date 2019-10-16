@@ -3,7 +3,7 @@
     require_once 'autentica.php';
 
     $sql = "SELECT id_serv, titulo_intro_serv, resumo_intro_serv, img_intro_serv, img_cont_serv, texto_cont_serv from servicos_tb";
-
+    // código do kesse
     $resultado = mysqli_query($conexao, $sql);
 
     if ($resultado) {

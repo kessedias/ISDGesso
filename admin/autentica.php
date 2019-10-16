@@ -1,4 +1,5 @@
 <?php 
+// código do kesse
 session_start();
 
 //Se estiver definido usuário na sessão

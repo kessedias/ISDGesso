@@ -1,7 +1,7 @@
 <?php  require_once 'autentica.php'; ?>
 <!-- Início Cabeçalho do site -->
 <header>
-
+<!-- // código do kesse -->
 <div id="jumbo" class="jumbotron jumbotron-fluid mb-0">
     <div class="container">
         <h1 class="text-center">ISD GESSO<i class="fas fa-hard-hat ml-2"></i></h1>

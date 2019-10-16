@@ -16,6 +16,7 @@ if (isset($_POST['op'])) {
         exit;
     }
 }
+// código do kesse
 //Verifica se o $Id ta definido na URL
 if (isset($_GET['id_usuario']) && !empty($_GET['id_usuario'])) {
     $id_usuario = $_GET['id_usuario'];

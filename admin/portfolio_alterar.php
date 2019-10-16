@@ -9,7 +9,7 @@
         $nome_serv_port  = $_POST['nome_serv_port'];
         //$img_emp_port    = $_POST['img_emp_port'];
         //$img_serv_port   = $_POST['img_serv_port'];
-
+        // código do kesse
            //IMAGEM Intro Serviços
         // Se estiver definido o campo imagem
     if(isset($_FILES['img_emp_port']) && $_FILES['img_emp_port']['error'] ==0) {

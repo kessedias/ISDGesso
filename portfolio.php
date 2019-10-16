@@ -38,8 +38,8 @@
                     <h2 class="whitesmoke text-center"><?=$portfolio['titulo_emp_port'] ?></h2>
                     <img class="img-thumbnail rounded mx-auto d-block" src="upload/<?=$portfolio['img_emp_port']?>" alt="empresa">
                 </div>
-                <div class="col-6 lightgray navyblue p-2">
-                    <img class="img-thumbnail rounded mx-auto d-block" src="upload/<?=$portfolio['img_serv_port']?>" alt="obra">
+                <div  class="col-6 lightgray navyblue p-2">
+                    <img class="teste img-thumbnail rounded mx-auto d-block" src="upload/<?=$portfolio['img_serv_port']?>" alt="obra">
                     <h2 class="whitesmoke text-center mt-2"><?=$portfolio['nome_serv_port'] ?></h2>
                 </div>
             </div>

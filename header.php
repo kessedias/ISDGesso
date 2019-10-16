@@ -10,7 +10,7 @@
   </button>
 <!-- //código do kesse -->
   <div class="collapse navbar-collapse" id="conteudoNavbarSuportado">
-    <ul class="navbar-nav mr-auto mb-0">
+    <ul class="navbar-nav ml-auto mb-0">
       <li class="nav-item">
         <a class="nav-link pb-0" href="index.php">Home</a>
       </li>

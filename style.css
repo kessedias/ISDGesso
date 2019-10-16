@@ -124,3 +124,8 @@ a.linktitulo:hover, a.lintitulo:active{
     background-size .15s ease-out;
 }
 
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: rgba(255,255,255,.75);
+    transform: scale(1.1);
+    transition: all 0.3s ease;
+}

@@ -6,4 +6,6 @@ A temática do site é sobre a divulgação e gestão de um site correpondente a
 
 O sistema administrativo do site apresenta em suas funcionalidades, o CRUD completo várias ferramentas, nas quais permitem a costumização do site através do usuário final mediante autenticação prévia.
 
+### Versão atualizada em https://github.com/kessedias/refactored_isdgesso
+
 © Copyright 2019 ISD Gesso - All Rights Reserved 
